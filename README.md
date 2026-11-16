@@ -20,3 +20,4 @@ A quantitative Fixed Income analytics tool written in Python to price corporate 
 ```bash
 pip install -r requirements.txt
 python bond_analytics.py
+```
